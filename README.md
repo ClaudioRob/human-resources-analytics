@@ -43,7 +43,7 @@ retenção de talentos através da Análise de Dados de Recursos Humanos.
 
 Como um processo de melhoria contínua podemos desenvolver uma automação para executar não só o pipeline de coleta e transformação de dados como automatizar os passo da etapa de Machine Learning e Deploy.
 
-# Serviços prestados
+## Serviços prestados
 Criação de Data Lakes
 Criação de Data Pipeline
 Gestão de Clusters
@@ -51,7 +51,7 @@ Análise de Dados
 Modelagem Preditiva
 Transformação de dados
 
-# Habilidades desenvolvidas
+## Habilidades desenvolvidas
 Python
 Pandas
 Apache Airflow
